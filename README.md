@@ -4,7 +4,7 @@ A scaling factor (reused from batch normalization layers) with each channel in c
 
 
 
-##Results  
+## Results  
 
 |  CIFAR10-VGG16BN  | Baseline | Trained with Sparsity (1e-4) | Pruned (0.7 Pruned) | Fine-tuned (40epochs) |
 | :---------------: | :------: | :--------------------------: | :-----------------: | :-------------------: |
