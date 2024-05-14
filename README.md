@@ -18,7 +18,7 @@ A scaling factor (reused from batch normalization layers) with each channel in c
 
 #Procedure Flow Chart
 
-(https://github.com/DhirajRouniyar/Assets/blob/main/Images/Network-Slim.png)
+![alt text](https://github.com/DhirajRouniyar/Assets/blob/main/Images/Network-Slim.png)
 
 
 ## Train with Sparsity
