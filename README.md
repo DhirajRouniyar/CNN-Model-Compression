@@ -1,6 +1,9 @@
 # CNN-Model Compression
+Aim is to reduce the model size, run-time memory, computing operations, while introducing no accuracy loss to and minimum overhead to the training process.  
 
 Reference Paper: "[Learning Efficient Convolutional Networks Through Network Slimming](http://openaccess.thecvf.com/content_iccv_2017/html/Liu_Learning_Efficient_Convolutional_ICCV_2017_paper.html) (ICCV2017)." .
+
+##Results  
 
 |  CIFAR10-VGG16BN  | Baseline | Trained with Sparsity (1e-4) | Pruned (0.7 Pruned) | Fine-tuned (40epochs) |
 | :---------------: | :------: | :--------------------------: | :-----------------: | :-------------------: |
